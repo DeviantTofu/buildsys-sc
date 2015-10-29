@@ -1,9 +1,9 @@
-BuildSys Steering Committee Bylaws
+# BuildSys Steering Committee Bylaws
 
-October 2015 version: copied and modified from the SenSys bylaws
+*October 2015 version: copied and modified from the SenSys bylaws*
 
 
-The BuildSys Steering Committee will ensure that the mechanisms for accomplishing the goals of the conference are in place.  The committee will make recommendations to sponsoring organizations for location(s).  The committee will select the General Chair(s), and the Program Chair(s) for each conference.  The General Chair(s) and the Program Chair(s) will consult the Steering Committee on the Call for Papers. The General Chair has responsibility for obtaining SIG and Technical committee support and will request Steering Committee assistance, as needed. The GC will also report back to the SC after the conference regarding budget, assessment of conference quality, and any recommendations for the coming years.
+The **BuildSys Steering Committee** will ensure that the mechanisms for accomplishing the goals of the conference are in place.  The committee will make recommendations to sponsoring organizations for location(s).  The committee will select the General Chair(s), and the Program Chair(s) for each conference.  The General Chair(s) and the Program Chair(s) will consult the Steering Committee on the Call for Papers. The General Chair has responsibility for obtaining SIG and Technical committee support and will request Steering Committee assistance, as needed. The GC will also report back to the SC after the conference regarding budget, assessment of conference quality, and any recommendations for the coming years.
 
 Steering committee composition:
 
