@@ -7,11 +7,11 @@ The BuildSys Steering Committee will ensure that the mechanisms for accomplishin
 
 Steering committee composition:
 
-* Steering committee membership period is for 3 years 
+* Steering committee membership period is for 4 years. 
 
 * The Steering Committee starts the process of selecting GC and TPC Co-Chairs for year X no later than 3-6 months before BuildSys X-1 is held.
 
-* Once the GC and/or TPC accept the role, they automatically become (observer) members of the Steering Committee and their 3 year period starts. They thereby participate in the selection of GC and TPC for the subsequent 3 years.
+* Once the GC and/or TPC accept the role, they automatically become (observer) members of the Steering Committee (for 1 year) and then become voting members for the remaining 3 years of their membership. If they were GC or TPC for a BuildSys event in year X, they thereby participate as observers in the selection of GC and TPC for year X+1, and as members with voting rights for years X+2, X+3 and X+4.
 
 * Members with more than one year as part of the Steering Committee automatically become voting members.
 
