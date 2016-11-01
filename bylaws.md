@@ -1,7 +1,7 @@
 # BuildSys Steering Committee Bylaws
 
 *October 2015 version: copied and modified from the SenSys bylaws*
-
+*November 2016 version: added a clause regarding SC members becoming TPC Chairs or GCs*
 
 The **BuildSys Steering Committee** will ensure that the mechanisms for accomplishing the goals of the conference are in place.  The committee will make recommendations to sponsoring organizations for location(s).  The committee will select the General Chair(s), and the Program Chair(s) for each conference.  The General Chair(s) and the Program Chair(s) will consult the Steering Committee on the Call for Papers. The General Chair has responsibility for obtaining SIG and Technical committee support and will request Steering Committee assistance, as needed. The GC will also report back to the SC after the conference regarding budget, assessment of conference quality, and any recommendations for the coming years.
 
@@ -19,7 +19,9 @@ Steering committee composition:
 
 * The SC will select a committee chair by vote of the committee at BuildSys, or, if none is taken, the longest-serving member of the SC will act as chair of the committee. 
 
-* The SC can elect members to the SC. "Elected members" be nominated by any SC member at any time, as long as the SC would not have more than 2 elected members at any given time. The nominee will be voted on before the next conference date and, dependent on a majority vote and the consent of the elected member, will join the steering committee just before the next conference event, at the same time as the conference organizers. Elected members are listed on the SC Web page as "(elected)" under the year in which they rotated on and serve a 3-year term along with the SC members that rotate on that year. There is no observational year for elected members. Elected members have voting rights and can serve as SC chair if nominated, just like other SC members.
+* The SC can elect members to the SC. "Elected members" can be nominated by any SC member at any time, as long as the SC would not have more than 2 elected members at any given time. The nominee will be voted on before the next conference date and, dependent on a majority vote and the consent of the elected member, will join the steering committee just before the next conference event, at the same time as the conference organizers. Elected members are listed on the SC Web page as "(elected)" under the year in which they rotated on and serve a 3-year term along with the SC members that rotate on that year. There is no observational year for elected members. Elected members have voting rights and can serve as SC chair if nominated, just like other SC members.
+
+* In cases when an existing SC member becomes a TPC Co-Chair or General Chair before completing the 3 year term, the initial term length (as counted from when he/she first became a member of the SC) will override when determining the duration of the term.
  
 In order to change these bylaws, 2/3rds of the steering committee must formally agree to the changes. 
 
